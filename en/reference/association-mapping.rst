@@ -758,7 +758,7 @@ uni-directional case above.
 Picking Owning and Inverse Side
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-For Many-To-Many associations you can chose which entity is the
+For Many-To-Many associations you can choose which entity is the
 owning and which the inverse side. There is a very simple semantic
 rule to decide which side is more suitable to be the owning side
 from a developers perspective. You only have to ask yourself, which
